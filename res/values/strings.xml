@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">PhotoView Sample</string>
+    <string name="menu_zoom_enable">Enable Zoom</string>
+    <string name="menu_zoom_disable">Disable Zoom</string>
+    <string name="menu_scale_fit_center">Change to FIT_CENTER</string>
+    <string name="menu_scale_fit_start">Change to FIT_START</string>
+    <string name="menu_scale_fit_end">Change to FIT_END</string>
+    <string name="menu_scale_fit_xy">Change to FIT_XY</string>
+    <string name="menu_scale_center">Change to CENTER</string>
+    <string name="menu_scale_center_inside">Change to CENTER_INSIDE</string>
+    <string name="menu_scale_center_crop">Change to CENTER_CROP</string>
+    <string name="menu_zoom_random_animate">Animate scale to random value</string>
+    <string name="menu_zoom_random">Set scale to random value</string>
+    <string name="menu_matrix_restore">Restore Display Matrix</string>
+    <string name="menu_matrix_capture">Capture Display Matrix</string>
+    <string name="extract_visible_bitmap">Extract visible bitmap</string>
+    <string name="menu_lock">Lock</string>
+    <string name="menu_unlock">Unlock</string>
+    <string name="image"> Image </string>
+    <string name="images_tab"> Images </string>
+    <string name="videos_tab"> Videos </string>
+    <string name="max_limit_reach_error"> Max limit 10 file. </string>
+    <string name="max_limit_file"> Max limit </string>
+    <string name="please_wait_text"> Please wait</string>
+    <string name="refreshing"> Refreshing</string>
+    <string name="file_size_exeeded"> The file size exceeds the maximum limit of </string>
+    <string name="selected_file_size">  Selected media size is : </string>
+    <string name="mb"> MB</string>
+    <string name="plaese_select_file"> Please select a file.</string>
+    <string name="file"> file. </string>
+    <string name="files"> files. </string>
+    <string name="no_media_file_available"> No media file available.</string>
+</resources>
